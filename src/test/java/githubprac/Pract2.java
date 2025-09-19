@@ -6,6 +6,7 @@ public class Pract2 {
 	@Test
 	public void method2() {
 		System.out.println("world");
+		System.out.println("hiii");
 	}
 
 }
