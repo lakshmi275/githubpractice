@@ -8,7 +8,7 @@ public class BranchPract {
     
 	public void branchDemo()
 	{
-		System.out.println("practicing branch ");
+		System.out.println("practicing branch push");
 		
 	}
 	 
