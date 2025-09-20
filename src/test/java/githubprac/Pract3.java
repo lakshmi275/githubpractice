@@ -8,7 +8,7 @@ public class Pract3 {
 	
 	public void demo3()
 	{
-		System.out.println("this is demo3 update");
+		System.out.println("this is demo3 update1");
 	}
 
 }
