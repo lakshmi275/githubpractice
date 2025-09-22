@@ -8,6 +8,9 @@ public class BranchPract {
     
 	public void branchDemo()
 	{
+
+		System.out.println("practicing branch push2");
+		System.out.println("branch push3");
 		System.out.println("practicing branch push");
 		System.out.println("adding code in branch");
 		
